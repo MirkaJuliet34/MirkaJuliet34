@@ -1,11 +1,5 @@
-<p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
-
 ### Hi there 👋 I'm [Mirka Juliet](https://mirkajuliet.herokuapp.com/)
 > Desenvolvedora Full Stack at [Freelancer](https://mirkajuliet.herokuapp.com/)
-
 
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> A little more about me...  
 
@@ -93,4 +87,11 @@ func GetBio() Bio {
 ---
 
 ⭐️ From [@MirkaJuliet34](https://github.com/MirkaJuliet34)
-```
+
+
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+<hr>
+
