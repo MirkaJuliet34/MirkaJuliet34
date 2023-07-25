@@ -77,7 +77,7 @@ func GetBio() Bio {
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://https://mirkajuliet.herokuapp.com/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://mirkajuliet.herokuapp.com/-blue?style=flat&logo=google-chrome"></a>
+<a href="https://beacons.ai/engenheira_de_software" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://beacons.ai/engenheira_de_software-blue?style=flat&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/mirka-juliet-9bb590148/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mirkajuliet-blue?style=flat&logo=linkedin"></a>
 <a href="https://pt.stackoverflow.com/users/275488/mirka-juliet" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Mirka Juliet-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:mirka.juliet@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mirka.juliet@gmail.com-blue?style=flat&logo=gmail"></a>
