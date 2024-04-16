@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm [Mirka Juliet](https://mbjcode.vercel.app/)
-> Desenvolvedora Full Stack (https://mbjcode.vercel.app/)
+### Desenvolvedora Full Stack
 
 ### <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> A little more about me...  
 
