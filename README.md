@@ -18,32 +18,30 @@ const mirk = {
 };
 
 ```
-```golang
-package main
-
-import (
-	    "fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
+```
+// Função que retorna o objeto com a biografia
+function getBio() {
+  return {
+    "- ⚡ Quick Biography:": "I believe in a significant and positive change in the world through the process of development and creation",
+    "- 🔭 I'm currently working": "Full Stack Developer",
+    "- 🌱 I'm currently learning": "Golang, MongoDB, RabbitMQ, PHP, Python, Angular (My company's tech stack) --- Honing my skills in React and React Native libraries and Software Architecture (personal and professional goal)",
+    "- 👯 I'm looking to collaborate": "Python, Golang and Docker related projects",
+    "- 🤔 I'm looking for help": "Anything related to what I'm currently learning 😅",
+    "- 💬 Ask me about": "JavaScript, React, React Native, HTML5, SQL, CSS, Sass and TypeScript",
+    "- 📫 How to find me:": "https://github.com/MirkaJuliet34",
+  };
 }
 
-func GetBio() Bio {
-        return Bio{
-                "- ⚡ Quick Biography:": "I believe in a significant and positive change in the world through the process of development and creation",
-                "- 🔭 I'm currently working": "Full Stack Developer",
-                "- 🌱 I'm currently learning": "Golang, MongoDB, RabbitMQ, PhP, Python, Angular (My company's tech stack) --- Honing my skills in React and Reactive Native libraries and Software Architecture (personal and professional goal) ",
-                "- 👯 I'm looking to collaborate": "Python, Golang and Docker related projects",
-                "- 🤔 I'm looking for help": "Anything related to what I'm currently learning 😅",
-                "- 💬 Ask me about": "JavaScript, React, React Native, HTML5, SQL, CSS, SaSS and TypeScript",
-                "- 📫 How to find me :": "https://github.com/MirkaJuliet34",
-        }
+// Função principal que imprime a biografia
+function main() {
+  const bio = getBio();
+  for (const [key, value] of Object.entries(bio)) {
+    console.log(`${key}: ${value}`);
+  }
 }
+
+// Executa a função principal
+main();
 ```
 
  🌐Programming Languages 🌐
