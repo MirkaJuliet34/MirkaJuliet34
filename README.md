@@ -14,7 +14,7 @@ const mirk = {
     speaker: "devfullcycle",
     mentor: "fullcycledevelopers"
   },
-  challenge: "Participating in the Full Stack and Full Cycle Immersion with Nest.js, GoLang, React.js, Apache Kafka, Docker, Kubernetes, and Elastic Stack technologies" // Corrigido para texto legível
+  challenge: "Participating in the Full Stack and Full Cycle Immersion with Nest.js, GoLang, React.js, Apache Kafka, Docker, Kubernetes, and Elastic Stack technologies" 
 };
 
 ```
