@@ -5,12 +5,12 @@
 
 ```javascript
 const mirk = {
-  pronouns: ["she", "her"], // Corrigido para um array de pronomes
+  pronouns: ["she", "her"], 
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Node", "Next.js"], // Corrigido para strings e formatado corretamente
   tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"], // Corrigido para strings e formatado corretamente
   architecture: ["microservices", "event-driven", "design system pattern"], // Correto
   techCommunities: {
-    coOrganizer: "Full Cycle", // Correção no nome da chave e formatado
+    coOrganizer: "Full Cycle", 
     speaker: "devfullcycle",
     mentor: "fullcycledevelopers"
   },
