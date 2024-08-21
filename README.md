@@ -6,9 +6,9 @@
 ```javascript
 const mirk = {
   pronouns: ["she", "her"], 
-  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Node", "Next.js"], // Corrigido para strings e formatado corretamente
-  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"], // Corrigido para strings e formatado corretamente
-  architecture: ["microservices", "event-driven", "design system pattern"], // Correto
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Node", "Next.js"], 
+  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"], 
+  architecture: ["microservices", "event-driven", "design system pattern"], 
   techCommunities: {
     coOrganizer: "Full Cycle", 
     speaker: "devfullcycle",
