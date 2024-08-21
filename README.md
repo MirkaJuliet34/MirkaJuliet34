@@ -5,17 +5,18 @@
 
 ```javascript
 const mirk = {
-     pronouns: "she" | "your hers",
-     code: [Javascript, Typescript, HTML, CSS, React, Node, NextJs],
-     tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-     architecture: ["microservices", "event-driven", "design system pattern"],
-     techCommunities: {
-                           co-organizer: "Full Cycle",
-                           speaker: "devfullcycle",
-                           mentor: "fullcycledevelopers"
-                         },
-    challenge: "Participating in the Full Stack__&& Full Cycle Immersion with Nest.js, GoLang, React.js, Apache Kafka, Docker, kubernetes and Elastic Stack technologies"
-}
+  pronouns: ["she", "her"], // Corrigido para um array de pronomes
+  code: ["JavaScript", "TypeScript", "HTML", "CSS", "React", "Node", "Next.js"], // Corrigido para strings e formatado corretamente
+  tools: ["React", "Redux", "Node", "Storybook", "Styled-Components", "Jest", "Docker"], // Corrigido para strings e formatado corretamente
+  architecture: ["microservices", "event-driven", "design system pattern"], // Correto
+  techCommunities: {
+    coOrganizer: "Full Cycle", // Correção no nome da chave e formatado
+    speaker: "devfullcycle",
+    mentor: "fullcycledevelopers"
+  },
+  challenge: "Participating in the Full Stack and Full Cycle Immersion with Nest.js, GoLang, React.js, Apache Kafka, Docker, Kubernetes, and Elastic Stack technologies" // Corrigido para texto legível
+};
+
 ```
 ```golang
 package main
