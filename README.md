@@ -19,7 +19,6 @@ const mirk = {
 
 ```
 ```
-// Função que retorna o objeto com a biografia
 function getBio() {
   return {
     "- ⚡ Quick Biography:": "I believe in a significant and positive change in the world through the process of development and creation",
@@ -32,7 +31,6 @@ function getBio() {
   };
 }
 
-// Função principal que imprime a biografia
 function main() {
   const bio = getBio();
   for (const [key, value] of Object.entries(bio)) {
@@ -40,7 +38,6 @@ function main() {
   }
 }
 
-// Executa a função principal
 main();
 ```
 
