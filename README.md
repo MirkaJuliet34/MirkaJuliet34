@@ -3,32 +3,7 @@
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50"> 
 
-```javascript
-const mirka = {
-  pronouns: ["she", "her"], 
-  role: "Software Engineer",
-  code: [
-    "JavaScript", "TypeScript", "HTML", "CSS", "React", "React Native", 
-    "PHP", "Laravel", "Next.js"
-  ], 
-  tools: [
-    "Docker", "Laravel WebSockets", "Queues", "MySQL", "Redis", 
-    "MailHog", "Storybook", "Styled-Components", "Jest", "VS Code"
-  ], 
-  architecture: [
-    "microservices", "event-driven", "design system pattern", "clean architecture"
-  ], 
-  experience: {
-    liferay: "Criação de fragmentos na plataforma Liferay",
-    multilanguage: "Projetos com Laravel multilíngue (PT_BR/EN)",
-    dashboards: "Desenvolvimento de dashboards interativos",
-    tcc: "Pós-graduação em Engenharia de Software",
-    concursos: "Preparação para concursos públicos nível intermediário",
-    fullstackProjects: "Integração de frontend React + backend Laravel + WebSockets + Docker"
-  },
-  challenge: "Desenvolver sistemas escaláveis, eficientes e organizados, com foco em filas, alertas e integração fullstack"
-};
-```
+
 
 <br/>
 
