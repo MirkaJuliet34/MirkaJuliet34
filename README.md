@@ -112,12 +112,6 @@
 
 ---
 
-<h2 align="center">🐍 Minhas Contribuições</h2>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MirkaJuliet34/MirkaJuliet34/output/github-contribution-grid-snake.svg" alt="Snake animation" width="70%"/>
-</p>
-
 ---
 
 <h2 align="center">✨ Um pouco sobre mim</h2>
