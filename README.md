@@ -112,12 +112,10 @@
 
 ---
 
-<h2 align="center">🌟 Contribuidores</h2>
+<h2 align="center">🐍 Minhas Contribuições</h2>
 
 <p align="center">
-  <a href="https://github.com/MirkaJuliet34/IronFence-Inteligencia-Artificial/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=MirkaJuliet34/IronFence-Inteligencia-Artificial" />
-  </a>
+  <img src="https://raw.githubusercontent.com/MirkaJuliet34/MirkaJuliet34/output/github-contribution-grid-snake.svg" alt="Snake animation" width="70%"/>
 </p>
 
 ---
