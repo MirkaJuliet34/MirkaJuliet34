@@ -8,8 +8,6 @@
 
 > 💬 Construindo software que escala, evolui e gera impacto real.
 Especializada em transformar problemas complexos em soluções robustas, seguras e sustentáveis através de engenharia de software, arquitetura moderna e automação.  
-> Sou apaixonada por engenharia de software moderna, arquitetura limpa e automação.  
-> Gosto de transformar ideias complexas em soluções simples, seguras e performáticas.
 
 ---
 
